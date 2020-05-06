@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Countries Theme Switch",
+  "name": "Theme switching React example ",
   "icons": [
     {
       "src": "favicon.ico",
